@@ -7,19 +7,19 @@
 
 ## How to run:
 *Step 1*: Position your entier flets near the stealth
-![Fleet Positioning Example](guide/Step 1.png)
+![Fleet Positioning Example](/guide/Step 1.png)
 
 *Step 2*: Open a terminal in the folder *src* of the repo
-![Open Terminal](guide/Step 2.png)
+![Open Terminal](/guide/Step 2.png)
 
 *Step 3*: Run the command `py main.py`
-![Run cmd](guide/Step 3.png)
+![Run cmd](/guide/Step 3.png)
 
 *Step 4*:Click on the scav and attack it with your "bait" fleet
-![Attack](guide/Step 4.png)
+![Attack](/guide/Step 4.png)
 
 *Step 5*: (*Important*) Click on the scav again to enter this UI (the point is to show the "+" btn on screen)
-![Attack](guide/Step 5.png)
+![Attack](/guide/Step 5.png)
 
 Done
 
